@@ -9,6 +9,6 @@ secsDAYS = days * 24 * 60 * 60
 secsHRS = hrs * 60 * 60
 secsMINS = mins * 60
 
-total = secsDAYS + secsHRS + secsMINS
+total = secsDAYS + secsHRS + secsMINS + secs
 
 print("The duration you inputed is a total of" , total , "seconds.")
